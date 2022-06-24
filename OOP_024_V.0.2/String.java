@@ -8,7 +8,7 @@ public class String {
     
     public static void main(String[] args) {
         
-		StringOperation operation = new StringOperation();
+		String_Operation operation = new String_Operation();
 		
 
 		
