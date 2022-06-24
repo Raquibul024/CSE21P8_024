@@ -1,7 +1,7 @@
 
 package string;
 
-class StringOperation {
+class String_Operation {
     public void charAt(String str) {
 		System.out.println("1.charAt() returns Character at a position."+"\nIn this case at position " 
 	+  (str.length()-1) + " is: \'" +str.charAt(str.length()-1)+"\'");;
